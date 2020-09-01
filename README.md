@@ -1,2 +1,3 @@
-# example
-My first work with git nano
+# The second change
+I have to get used to use Git
+

@@ -1,3 +1,2 @@
 # example
-just for fun
-Hello world!
+Update readme
